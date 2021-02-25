@@ -1,6 +1,6 @@
-package com.javarush.task.task26.task2613;
+package atm_emulator;
 
-import com.javarush.task.task26.task2613.exception.InterruptOperationException;
+import atm_emulator.exception.InterruptOperationException;
 
 import java.io.BufferedReader;
 import java.io.IOException;
