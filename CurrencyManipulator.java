@@ -1,6 +1,6 @@
 package atm_emulator;
 
-import com.javarush.task.task26.task2613.exception.NotEnoughMoneyException;
+import atm_emulator.exception.NotEnoughMoneyException;
 import java.util.*;
 
 /*
