@@ -1,7 +1,7 @@
-package com.javarush.task.task26.task2613;
+package atm_emulator;
 
-import com.javarush.task.task26.task2613.command.CommandExecutor;
-import com.javarush.task.task26.task2613.exception.InterruptOperationException;
+import atm_emulator.command.CommandExecutor;
+import atm_emulator.exception.InterruptOperationException;
 
 import java.util.Locale;
 
