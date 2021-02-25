@@ -1,9 +1,9 @@
-package com.javarush.task.task26.task2613.command;
+package atm_emulator.command;
 
-import com.javarush.task.task26.task2613.CashMachine;
-import com.javarush.task.task26.task2613.ConsoleHelper;
-import com.javarush.task.task26.task2613.CurrencyManipulator;
-import com.javarush.task.task26.task2613.CurrencyManipulatorFactory;
+import atm_emulator.CashMachine;
+import atm_emulator.ConsoleHelper;
+import atm_emulator.CurrencyManipulator;
+import atm_emulator.CurrencyManipulatorFactory;
 
 import java.util.Collection;
 import java.util.ResourceBundle;
