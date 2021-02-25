@@ -1,11 +1,11 @@
-package com.javarush.task.task26.task2613.command;
+package atm_emulator.command;
 
-import com.javarush.task.task26.task2613.CashMachine;
-import com.javarush.task.task26.task2613.ConsoleHelper;
-import com.javarush.task.task26.task2613.CurrencyManipulator;
-import com.javarush.task.task26.task2613.CurrencyManipulatorFactory;
-import com.javarush.task.task26.task2613.exception.InterruptOperationException;
-import com.javarush.task.task26.task2613.exception.NotEnoughMoneyException;
+import atm_emulator.CashMachine;
+import atm_emulator.ConsoleHelper;
+import atm_emulator.CurrencyManipulator;
+import atm_emulator.CurrencyManipulatorFactory;
+import atm_emulator.exception.InterruptOperationException;
+import atm_emulator.exception.NotEnoughMoneyException;
 
 import java.util.Map;
 import java.util.ResourceBundle;
