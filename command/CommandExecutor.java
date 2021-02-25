@@ -1,7 +1,7 @@
-package com.javarush.task.task26.task2613.command;
+package atm_emulator.command;
 
-import com.javarush.task.task26.task2613.Operation;
-import com.javarush.task.task26.task2613.exception.InterruptOperationException;
+import atm_emulator.Operation;
+import atm_emulator.exception.InterruptOperationException;
 
 import java.util.HashMap;
 import java.util.Map;
